@@ -5,4 +5,6 @@ You can integrate Bohudur in your Modified Smm Panel easily using this Module.
 
 2. **Import bohudur_database.sql:** In PhpMyAdmin, select the SMM Panel Database and import the [bohudur_database.sql](https://github.com/BohudurOne/) file to complete database setup for Bohudur.
 
-Simple two steps. Thank You.
+## Documentation
+
+You can find the full documentation here: [https://documentation.bohudur.one/smm-modified/](https://documentation.bohudur.one/smm-modified/)
