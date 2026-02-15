@@ -1,2 +1,2 @@
 # ModifiedSmmPanel
-You can find the full documentation here: [https://documentation.bohudur.one/smm-modified/](https://documentation.bohudur.one/smm-modified/)
+You can find the full documentation here: [https://docs.bohudur.one/smm-panels/](https://docs.bohudur.one/smm-panels/)
